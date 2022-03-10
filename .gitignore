@@ -1,0 +1,13 @@
+.DS_Store
+*.aux
+*.log
+*.fls
+*.fdb_*
+*.sync*
+*.mp4
+*.mkv
+*.mov
+*.pyc
+*.out
+*.zip
+*.pkl
